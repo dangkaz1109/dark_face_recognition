@@ -1,6 +1,6 @@
-# Baseline FaceNet Recognition under Camera Noise
+# Baseline FaceNet Recognition under Camera Low Light Noise
 
-This repository implements a structured, modular PyTorch codebase for **Baseline FaceNet Recognition** and evaluates it under camera noise conditions, utilizing the original FaceNet backbone and standard Triplet Margin Loss.
+This repository implements a structured, modular PyTorch codebase for **Baseline FaceNet Recognition** and evaluates it under low light camera noise conditions, utilizing the original FaceNet backbone and standard Triplet Margin Loss.
 
 It supports training and comparing two distinct model configurations:
 1. **Version 1 (Clean)**: Finetuned on clean dataset, evaluated on noisy dataset.
