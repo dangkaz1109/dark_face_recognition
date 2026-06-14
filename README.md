@@ -6,6 +6,8 @@ It supports training and comparing two distinct model configurations:
 1. **Version 1 (Clean)**: Finetuned on clean dataset, evaluated on noisy dataset.
 2. **Version 2 (Noisy)**: Finetuned on noisy dataset (with simulated camera noise), evaluated on noisy dataset.
 
+![Benchmark](benchmark.png)
+
 ---
 
 ## 📂 Project Structure
